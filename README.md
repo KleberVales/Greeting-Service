@@ -54,5 +54,7 @@ docker build -t greeting-service2 .
 
 ```
 
+### 2. Rodando o container
+
 
 
