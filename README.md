@@ -44,5 +44,7 @@ mvn spring-boot:run
 O serviço ficará disponível em:\
 👉 http://localhost:8080/greeting
 
+## 🐳 Executando com Docker
+
 
 
