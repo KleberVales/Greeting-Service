@@ -62,5 +62,7 @@ docker run -d -p 8080:8080 --name greeting-container greeting-service2
 
 ```
 
+### 3. Testando
+
 
 
