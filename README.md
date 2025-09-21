@@ -20,3 +20,15 @@ greeting-service/
 
 ```
 
+---
+
+## ⚙️ Tecnologias utilizadas
+- **Java 21**
+- **Spring Boot 3**
+- **Maven**
+- **Docker**
+
+---
+
+
+
