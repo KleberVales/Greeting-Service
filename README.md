@@ -56,5 +56,11 @@ docker build -t greeting-service2 .
 
 ### 2. Rodando o container
 
+```bash
+
+docker run -d -p 8080:8080 --name greeting-container greeting-service2
+
+```
+
 
 
