@@ -46,5 +46,13 @@ O serviço ficará disponível em:\
 
 ## 🐳 Executando com Docker
 
+### 1. Build da imagem
+
+```bash
+
+docker build -t greeting-service2 .
+
+```
+
 
 
