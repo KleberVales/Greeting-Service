@@ -39,5 +39,8 @@ git clone https://github.com/seu-usuario/greeting-service2.git
 cd greeting-service2
 mvn spring-boot:run
 
+O serviço ficará disponível em:
+👉 http://localhost:8080/greeting
+
 
 
