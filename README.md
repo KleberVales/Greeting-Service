@@ -7,9 +7,9 @@ Este projeto é utilizado como exemplo para estudar **microserviços, containers
 
 ## 📂 Estrutura do Projeto
 
-```bash
+```plaintext
 
-greeting-service2/
+greeting-service/
 ├── src/
 │ └── main/
 │ ├── java/com/example/greeting/GreetingServiceApplication.java
