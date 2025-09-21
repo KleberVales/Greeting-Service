@@ -64,5 +64,13 @@ docker run -d -p 8080:8080 --name greeting-container greeting-service2
 
 ### 3. Testando
 
+Abra no navegador ou use cURL:
+
+```bash
+
+curl http://localhost:8080/greeting
+
+```
+
 
 
