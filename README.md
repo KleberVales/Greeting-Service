@@ -72,5 +72,13 @@ curl http://localhost:8080/greeting
 
 ```
 
+Saída esperada:
+
+```bash
+
+{"message": "Hello, World!"}
+
+```
+
 
 
