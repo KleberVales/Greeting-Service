@@ -7,3 +7,16 @@ Este projeto é utilizado como exemplo para estudar **microserviços, containers
 
 ## 📂 Estrutura do Projeto
 
+```bash
+
+greeting-service2/
+├── src/
+│ └── main/
+│ ├── java/com/example/greeting/GreetingServiceApplication.java
+│ └── resources/application.properties
+├── Dockerfile
+├── pom.xml
+└── README.md
+
+```
+
