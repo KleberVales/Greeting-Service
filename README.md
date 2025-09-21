@@ -30,5 +30,14 @@ greeting-service/
 
 ---
 
+## ▶️ Executando localmente
+
+Clone o repositório e compile o projeto com Maven:
+
+```bash
+git clone https://github.com/seu-usuario/greeting-service2.git
+cd greeting-service2
+mvn spring-boot:run
+
 
 
